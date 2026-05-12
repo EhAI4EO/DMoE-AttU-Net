@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 📄 Official Repository for the DMoE-AttU-Net Framework
+### 📄 Official Repository for the [DMoE-AttU-Net](https://www.mdpi.com/2072-4292/18/10/1508) Framework
 
 </div>
 
